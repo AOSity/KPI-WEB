@@ -1,0 +1,126 @@
+body {
+  background-color: #222;
+  color: #fff;
+}
+
+.col {
+  padding-right: 2px;
+  padding-left: 2px;
+}
+
+.btn-secondary {
+  background-color: #333 !important;
+  border-color: #333 !important;
+  color: #fff !important;
+}
+
+.btn-secondary:hover {
+  background-color: #555 !important;
+  border-color: #555 !important;
+  color: #fff !important;
+}
+
+.btn-primary {
+  background-color: #aaa !important;
+  border-color: #333 !important;
+  color: #333 !important;
+}
+
+.btn-primary:hover {
+  background-color: #ccc !important;
+  border-color: #ccc !important;
+  color: #333 !important;
+}
+
+.card {
+  background-color: #222;
+  color: #fff;
+  border: 1px solid #ccc;
+}
+
+.form-control {
+  background-color: #222 !important;
+  color: #fff !important;
+  border-color: #555;
+}
+
+.fc-prim {
+  height: 40px;
+  margin-bottom: 12px;
+  font-size: xx-large;
+  text-align: right;
+  border-color: #222;
+}
+
+.fc-sec {
+  height: 16px;
+  font-size: medium;
+  text-align: right;
+  color: #aaa !important;
+  border-color: #222;
+}
+
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 20%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+}
+
+.profile-details {
+  margin-bottom: 20px;
+}
+
+.registration-table {
+  width: 69%;
+}
+
+.registration-table th {
+  text-align: left;
+}
+
+.login-form {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+.registration-form {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-top: 50px;
+}
+
+.about-section {
+  padding: 80px 0;
+}
+
+.about-text {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.emblem {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 50px;
+  text-align: right;
+  padding-right: 20px;
+}
